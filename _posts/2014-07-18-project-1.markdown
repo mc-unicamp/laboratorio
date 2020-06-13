@@ -1,0 +1,9 @@
+---
+layout: default
+title: Simulações
+modal-id: 1
+img: cabin.png
+alt: image-alt
+url: player/
+description: Ambiente de simulação do Museu.
+---

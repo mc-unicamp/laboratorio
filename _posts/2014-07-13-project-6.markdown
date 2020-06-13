@@ -1,0 +1,9 @@
+---
+layout: default
+title: Simulações
+modal-id: 6
+img: submarine.png
+alt: image-alt
+url: player/
+description: Ambiente de simulação do Museu.
+---
