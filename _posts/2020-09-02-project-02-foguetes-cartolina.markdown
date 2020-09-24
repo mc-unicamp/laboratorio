@@ -4,6 +4,6 @@ title: Foguetes de Cartolina
 modal-id: 02
 img: foguetes-cartolina.png
 alt: Foguetes de Cartolina
-target: https://bit.ly/museu-zumbi
-description: Ambiente que simula o uso do método dedutivo para, a partir de evidências, deduzir uma nova informação. Neste ambiente/jogo, o usuário assume o papel de um médico que deve diagnosticar zumbis.
+target: https://mc-unicamp.github.io/oficinas/foguetes/
+description: Nessa oficina o céu não é mais o limite! Venha construir um foguete que, embora seja simples, é muito poderoso e pode ir longe.
 ---

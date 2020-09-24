@@ -4,6 +4,6 @@ title: Aplicativos
 modal-id: 01
 img: aplicativos.png
 alt: Aplicativos
-target: https://bit.ly/museu-zumbi
-description: Ambiente que simula o uso do método dedutivo para, a partir de evidências, deduzir uma nova informação. Neste ambiente/jogo, o usuário assume o papel de um médico que deve diagnosticar zumbis.
+target: https://mc-unicamp.github.io/oficinas/appmaker
+description: Oficina em que você explora o fascinante mundo da programação e controlar algumas das tecnologias mais incríveis que existem dentro do seu aparelho celular.
 ---

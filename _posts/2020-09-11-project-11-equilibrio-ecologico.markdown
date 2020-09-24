@@ -4,6 +4,6 @@ title: Equilíbrio Ecológico
 modal-id: 11
 img: equilibrio-ecologico.png
 alt: Equilíbrio Ecológico
-target: https://bit.ly/museu-zumbi
-description: Ambiente que simula o uso do método dedutivo para, a partir de evidências, deduzir uma nova informação. Neste ambiente/jogo, o usuário assume o papel de um médico que deve diagnosticar zumbis.
+target: https://mc-unicamp.github.io/oficinas/simula/equilibrio/
+description: Ambiente que simula cenários de equilíbrio ecológico de nível primário, secundário e terciário, a exemplo dos vegetais, herbívoros e carnívoros, ou com papéis equivalentes no mundo microscópico.
 ---

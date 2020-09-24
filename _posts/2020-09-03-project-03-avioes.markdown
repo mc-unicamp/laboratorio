@@ -4,6 +4,6 @@ title: Aviões
 modal-id: 03
 img: avioes.png
 alt: Aviões
-target: https://bit.ly/museu-zumbi
-description: Ambiente que simula o uso do método dedutivo para, a partir de evidências, deduzir uma nova informação. Neste ambiente/jogo, o usuário assume o papel de um médico que deve diagnosticar zumbis.
+target: https://mc-unicamp.github.io/oficinas/avioes
+description: Oficina em que você vai aprender a criar, testar e aperfeiçoar seus aviões de papel, explorando as possibilidades como um cientista.
 ---

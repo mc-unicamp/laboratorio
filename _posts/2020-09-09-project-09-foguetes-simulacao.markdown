@@ -4,6 +4,6 @@ title: Simulação de Foguetes
 modal-id: 09
 img: foguetes-simulacao.png
 alt: Simulação de Foguetes
-target: https://bit.ly/museu-zumbi
-description: Ambiente que simula o uso do método dedutivo para, a partir de evidências, deduzir uma nova informação. Neste ambiente/jogo, o usuário assume o papel de um médico que deve diagnosticar zumbis.
+target: https://bit.ly/museu-foguetes
+description: Usando o simulador do Museu você poderá simular o comportamento físico de objetos. Em especial, este ambiente está preparado para simular o lançamento de foguetes pela parametrização de um modelo.
 ---

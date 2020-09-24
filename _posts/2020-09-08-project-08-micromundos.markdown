@@ -4,6 +4,6 @@ title: Micromundos
 modal-id: 08
 img: micromundos.png
 alt: Micromundos
-target: https://bit.ly/museu-zumbi
-description: Ambiente que simula o uso do método dedutivo para, a partir de evidências, deduzir uma nova informação. Neste ambiente/jogo, o usuário assume o papel de um médico que deve diagnosticar zumbis.
+target: https://mc-unicamp.github.io/oficinas/micromundos/
+description: Um mundo incrível se esconde além da capacidade de ampliação de nossos olhos. Criaturas, minerais e vegetais esperando para serem descobertos nesse universo diminuto. Embarque conosco na exploração desses micromundos!
 ---
