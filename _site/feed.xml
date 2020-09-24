@@ -4,11 +4,11 @@
   <generator uri="https://jekyllrb.com/" version="4.1.0">Jekyll</generator>
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2020-06-12T22:05:06-03:00</updated>
+  <updated>2020-09-24T13:00:04-03:00</updated>
   <id>http://localhost:4000/</id>
 
   
-    <title type="html">Laboratório do Museu</title>
+    <title type="html">#labmuseu</title>
   
 
   
@@ -20,11 +20,11 @@
   
   
     <entry>
-      <title type="html">Simulações</title>
-      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Simulações" />
-      <published>2014-07-18T00:00:00-03:00</published>
-      <updated>2014-07-18T00:00:00-03:00</updated>
-      <id>http://localhost:4000/project-1</id>
+      <title type="html">Aplicativos</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Aplicativos" />
+      <published>2020-09-13T00:00:00-03:00</published>
+      <updated>2020-09-13T00:00:00-03:00</updated>
+      <id>http://localhost:4000/project-13-aplicativos</id>
       <content type="html" xml:base="http://localhost:4000/"></content>
 
       
@@ -52,11 +52,11 @@
     </entry>
   
     <entry>
-      <title type="html">Authoring Space</title>
-      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Authoring Space" />
-      <published>2014-07-17T00:00:00-03:00</published>
-      <updated>2014-07-17T00:00:00-03:00</updated>
-      <id>http://localhost:4000/project-2</id>
+      <title type="html">Foguetes</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Foguetes" />
+      <published>2020-09-12T00:00:00-03:00</published>
+      <updated>2020-09-12T00:00:00-03:00</updated>
+      <id>http://localhost:4000/project-12-foguetes</id>
       <content type="html" xml:base="http://localhost:4000/"></content>
 
       
@@ -84,11 +84,139 @@
     </entry>
   
     <entry>
-      <title type="html">First Access</title>
-      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="First Access" />
-      <published>2014-07-16T00:00:00-03:00</published>
-      <updated>2014-07-16T00:00:00-03:00</updated>
-      <id>http://localhost:4000/project-3</id>
+      <title type="html">Aviões</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Aviões" />
+      <published>2020-09-11T00:00:00-03:00</published>
+      <updated>2020-09-11T00:00:00-03:00</updated>
+      <id>http://localhost:4000/project-11-avioes</id>
+      <content type="html" xml:base="http://localhost:4000/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Bloquinhos</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Bloquinhos" />
+      <published>2020-09-10T00:00:00-03:00</published>
+      <updated>2020-09-10T00:00:00-03:00</updated>
+      <id>http://localhost:4000/project-10-bloquinhos</id>
+      <content type="html" xml:base="http://localhost:4000/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Avis Papyrus</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Avis Papyrus" />
+      <published>2020-09-09T00:00:00-03:00</published>
+      <updated>2020-09-09T00:00:00-03:00</updated>
+      <id>http://localhost:4000/project-09-avis-papyrus</id>
+      <content type="html" xml:base="http://localhost:4000/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Ecoesfera</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Ecoesfera" />
+      <published>2020-09-08T00:00:00-03:00</published>
+      <updated>2020-09-08T00:00:00-03:00</updated>
+      <id>http://localhost:4000/project-08-ecoesfera</id>
+      <content type="html" xml:base="http://localhost:4000/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Zombie Venom</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Zombie Venom" />
+      <published>2020-09-04T00:00:00-03:00</published>
+      <updated>2020-09-04T00:00:00-03:00</updated>
+      <id>http://localhost:4000/project-01-zombie-venom</id>
       <content type="html" xml:base="http://localhost:4000/"></content>
 
       
