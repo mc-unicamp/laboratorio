@@ -5,5 +5,6 @@ modal-id: 10
 img: zombie-venom.png
 alt: Zombie Venom
 target: https://bit.ly/museu-zumbi
-description: Ambiente que simula o uso do método dedutivo para, a partir de evidências, deduzir uma nova informação. Neste ambiente/jogo, o usuário assume o papel de um médico que deve diagnosticar zumbis.
+description: Utilizando nosso simulador virtual, a oficina mostra como médicos e cientistas identificam, estudam, usam ferramentas e métodos para explorar e decifrar o mundo.
+A atividade apresentas desafios ao participante que, ao assumir o papel de um médico de zumbis, entra em um jogo de enigmas, deduções e aprendizados, realizando diagnósticos por meio de análises de sintomas e sinais característicos.
 ---

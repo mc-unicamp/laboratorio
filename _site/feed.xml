@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="4.1.0">Jekyll</generator>
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2020-09-24T17:26:00-03:00</updated>
+  <updated>2020-09-24T17:35:43-03:00</updated>
   <id>http://localhost:4000/</id>
 
   
@@ -18,6 +18,186 @@
   
 
   
+  
+    <entry>
+      <title type="html"></title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="" />
+      <published>2020-09-24T17:35:43-03:00</published>
+      <updated>2020-09-24T17:35:43-03:00</updated>
+      <id>http://localhost:4000/2020-09-10-project-10-zombie-venom</id>
+      <content type="html" xml:base="http://localhost:4000/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html"></title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="" />
+      <published>2020-09-24T17:35:43-03:00</published>
+      <updated>2020-09-24T17:35:43-03:00</updated>
+      <id>http://localhost:4000/2020-09-07-project-07-fossil</id>
+      <content type="html" xml:base="http://localhost:4000/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html"></title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="" />
+      <published>2020-09-24T17:35:43-03:00</published>
+      <updated>2020-09-24T17:35:43-03:00</updated>
+      <id>http://localhost:4000/2020-09-05-project-05-avis-papyrus</id>
+      <content type="html" xml:base="http://localhost:4000/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html"></title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="" />
+      <published>2020-09-24T17:35:43-03:00</published>
+      <updated>2020-09-24T17:35:43-03:00</updated>
+      <id>http://localhost:4000/2020-09-04-project-04-bloquinhos</id>
+      <content type="html" xml:base="http://localhost:4000/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html"></title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="" />
+      <published>2020-09-24T17:35:43-03:00</published>
+      <updated>2020-09-24T17:35:43-03:00</updated>
+      <id>http://localhost:4000/2020-09-03-project-03-avioes</id>
+      <content type="html" xml:base="http://localhost:4000/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html"></title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="" />
+      <published>2020-09-24T17:35:43-03:00</published>
+      <updated>2020-09-24T17:35:43-03:00</updated>
+      <id>http://localhost:4000/2020-09-02-project-02-foguetes-cartolina</id>
+      <content type="html" xml:base="http://localhost:4000/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+
+      
+      
+    </entry>
   
     <entry>
       <title type="html">Simulação Básica</title>
@@ -116,203 +296,11 @@
     </entry>
   
     <entry>
-      <title type="html">Zombie Venom</title>
-      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Zombie Venom" />
-      <published>2020-09-10T00:00:00-03:00</published>
-      <updated>2020-09-10T00:00:00-03:00</updated>
-      <id>http://localhost:4000/project-10-zombie-venom</id>
-      <content type="html" xml:base="http://localhost:4000/"></content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name></name>
-        
-        
-      </author>
-
-      
-
-      
-
-      
-        <summary type="html"></summary>
-      
-
-      
-      
-    </entry>
-  
-    <entry>
       <title type="html">Simulação de Foguetes</title>
       <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Simulação de Foguetes" />
       <published>2020-09-09T00:00:00-03:00</published>
       <updated>2020-09-09T00:00:00-03:00</updated>
       <id>http://localhost:4000/project-09-foguetes-simulacao</id>
-      <content type="html" xml:base="http://localhost:4000/"></content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name></name>
-        
-        
-      </author>
-
-      
-
-      
-
-      
-        <summary type="html"></summary>
-      
-
-      
-      
-    </entry>
-  
-    <entry>
-      <title type="html">Micromundos</title>
-      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Micromundos" />
-      <published>2020-09-08T00:00:00-03:00</published>
-      <updated>2020-09-08T00:00:00-03:00</updated>
-      <id>http://localhost:4000/project-08-micromundos</id>
-      <content type="html" xml:base="http://localhost:4000/"></content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name></name>
-        
-        
-      </author>
-
-      
-
-      
-
-      
-        <summary type="html"></summary>
-      
-
-      
-      
-    </entry>
-  
-    <entry>
-      <title type="html">C</title>
-      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="C" />
-      <published>2020-09-07T00:00:00-03:00</published>
-      <updated>2020-09-07T00:00:00-03:00</updated>
-      <id>http://localhost:4000/project-07-fossil</id>
-      <content type="html" xml:base="http://localhost:4000/"></content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name></name>
-        
-        
-      </author>
-
-      
-
-      
-
-      
-        <summary type="html"></summary>
-      
-
-      
-      
-    </entry>
-  
-    <entry>
-      <title type="html">Ecoesfera</title>
-      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Ecoesfera" />
-      <published>2020-09-06T00:00:00-03:00</published>
-      <updated>2020-09-06T00:00:00-03:00</updated>
-      <id>http://localhost:4000/project-06-ecoesfera</id>
-      <content type="html" xml:base="http://localhost:4000/"></content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name></name>
-        
-        
-      </author>
-
-      
-
-      
-
-      
-        <summary type="html"></summary>
-      
-
-      
-      
-    </entry>
-  
-    <entry>
-      <title type="html">Avis Papyrus</title>
-      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Avis Papyrus" />
-      <published>2020-09-05T00:00:00-03:00</published>
-      <updated>2020-09-05T00:00:00-03:00</updated>
-      <id>http://localhost:4000/project-05-avis-papyrus</id>
-      <content type="html" xml:base="http://localhost:4000/"></content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name></name>
-        
-        
-      </author>
-
-      
-
-      
-
-      
-        <summary type="html"></summary>
-      
-
-      
-      
-    </entry>
-  
-    <entry>
-      <title type="html">Bloquinhos</title>
-      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Bloquinhos" />
-      <published>2020-09-04T00:00:00-03:00</published>
-      <updated>2020-09-04T00:00:00-03:00</updated>
-      <id>http://localhost:4000/project-04-bloquinhos</id>
       <content type="html" xml:base="http://localhost:4000/"></content>
 
       

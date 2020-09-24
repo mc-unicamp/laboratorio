@@ -5,5 +5,6 @@ modal-id: 03
 img: avioes.png
 alt: Aviões
 target: https://mc-unicamp.github.io/oficinas/avioes
-description: Oficina em que você vai aprender a criar, testar e aperfeiçoar seus aviões de papel, explorando as possibilidades como um cientista.
+description: A oficina aborda conceitos e princípios relacionados à ciência do voo e aplicados na construção de diferentes tipos de aeronaves, por meio da criação de aviões de papel
+Por meio de lançamentos dos modelos são realizadas análises comparativas de comportamento e distâncias atingidas, possibilitando ajustes e aprimoramento dos projetos. 
 ---
