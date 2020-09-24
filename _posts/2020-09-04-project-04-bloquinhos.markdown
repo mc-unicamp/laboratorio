@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Bloquinhos
-modal-id: 1
+modal-id: 04
 img: bloquinhos.png
 alt: Bloquinhos
 target: https://bit.ly/museu-zumbi
