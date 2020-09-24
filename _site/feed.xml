@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="4.1.0">Jekyll</generator>
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2020-09-24T17:35:43-03:00</updated>
+  <updated>2020-09-24T17:56:18-03:00</updated>
   <id>http://localhost:4000/</id>
 
   
@@ -22,9 +22,9 @@
     <entry>
       <title type="html"></title>
       <link href="http://localhost:4000/" rel="alternate" type="text/html" title="" />
-      <published>2020-09-24T17:35:43-03:00</published>
-      <updated>2020-09-24T17:35:43-03:00</updated>
-      <id>http://localhost:4000/2020-09-10-project-10-zombie-venom</id>
+      <published>2020-09-24T17:56:18-03:00</published>
+      <updated>2020-09-24T17:56:18-03:00</updated>
+      <id>http://localhost:4000/2020-09-13-project-13-simulacao-basica</id>
       <content type="html" xml:base="http://localhost:4000/"></content>
 
       
@@ -52,9 +52,9 @@
     <entry>
       <title type="html"></title>
       <link href="http://localhost:4000/" rel="alternate" type="text/html" title="" />
-      <published>2020-09-24T17:35:43-03:00</published>
-      <updated>2020-09-24T17:35:43-03:00</updated>
-      <id>http://localhost:4000/2020-09-07-project-07-fossil</id>
+      <published>2020-09-24T17:56:18-03:00</published>
+      <updated>2020-09-24T17:56:18-03:00</updated>
+      <id>http://localhost:4000/2020-09-12-project-12-maquinas-voadoras</id>
       <content type="html" xml:base="http://localhost:4000/"></content>
 
       
@@ -82,8 +82,128 @@
     <entry>
       <title type="html"></title>
       <link href="http://localhost:4000/" rel="alternate" type="text/html" title="" />
-      <published>2020-09-24T17:35:43-03:00</published>
-      <updated>2020-09-24T17:35:43-03:00</updated>
+      <published>2020-09-24T17:56:18-03:00</published>
+      <updated>2020-09-24T17:56:18-03:00</updated>
+      <id>http://localhost:4000/2020-09-11-project-11-equilibrio-ecologico</id>
+      <content type="html" xml:base="http://localhost:4000/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html"></title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="" />
+      <published>2020-09-24T17:56:18-03:00</published>
+      <updated>2020-09-24T17:56:18-03:00</updated>
+      <id>http://localhost:4000/2020-09-09-project-09-foguetes-simulacao</id>
+      <content type="html" xml:base="http://localhost:4000/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html"></title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="" />
+      <published>2020-09-24T17:56:18-03:00</published>
+      <updated>2020-09-24T17:56:18-03:00</updated>
+      <id>http://localhost:4000/2020-09-08-project-08-micromundos</id>
+      <content type="html" xml:base="http://localhost:4000/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html"></title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="" />
+      <published>2020-09-24T17:56:18-03:00</published>
+      <updated>2020-09-24T17:56:18-03:00</updated>
+      <id>http://localhost:4000/2020-09-06-project-06-ecoesfera</id>
+      <content type="html" xml:base="http://localhost:4000/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html"></title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="" />
+      <published>2020-09-24T17:56:18-03:00</published>
+      <updated>2020-09-24T17:56:18-03:00</updated>
       <id>http://localhost:4000/2020-09-05-project-05-avis-papyrus</id>
       <content type="html" xml:base="http://localhost:4000/"></content>
 
@@ -112,9 +232,9 @@
     <entry>
       <title type="html"></title>
       <link href="http://localhost:4000/" rel="alternate" type="text/html" title="" />
-      <published>2020-09-24T17:35:43-03:00</published>
-      <updated>2020-09-24T17:35:43-03:00</updated>
-      <id>http://localhost:4000/2020-09-04-project-04-bloquinhos</id>
+      <published>2020-09-24T17:56:18-03:00</published>
+      <updated>2020-09-24T17:56:18-03:00</updated>
+      <id>http://localhost:4000/2020-09-01-project-01-aplicativos</id>
       <content type="html" xml:base="http://localhost:4000/"></content>
 
       
@@ -140,71 +260,11 @@
     </entry>
   
     <entry>
-      <title type="html"></title>
-      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="" />
-      <published>2020-09-24T17:35:43-03:00</published>
-      <updated>2020-09-24T17:35:43-03:00</updated>
-      <id>http://localhost:4000/2020-09-03-project-03-avioes</id>
-      <content type="html" xml:base="http://localhost:4000/"></content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name></name>
-        
-        
-      </author>
-
-      
-
-      
-
-      
-
-      
-      
-    </entry>
-  
-    <entry>
-      <title type="html"></title>
-      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="" />
-      <published>2020-09-24T17:35:43-03:00</published>
-      <updated>2020-09-24T17:35:43-03:00</updated>
-      <id>http://localhost:4000/2020-09-02-project-02-foguetes-cartolina</id>
-      <content type="html" xml:base="http://localhost:4000/"></content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name></name>
-        
-        
-      </author>
-
-      
-
-      
-
-      
-
-      
-      
-    </entry>
-  
-    <entry>
-      <title type="html">Simulação Básica</title>
-      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Simulação Básica" />
-      <published>2020-09-13T00:00:00-03:00</published>
-      <updated>2020-09-13T00:00:00-03:00</updated>
-      <id>http://localhost:4000/project-13-simulacao-basica</id>
+      <title type="html">Zombie Venom</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Zombie Venom" />
+      <published>2020-09-10T00:00:00-03:00</published>
+      <updated>2020-09-10T00:00:00-03:00</updated>
+      <id>http://localhost:4000/project-10-zombie-venom</id>
       <content type="html" xml:base="http://localhost:4000/"></content>
 
       
@@ -232,75 +292,11 @@
     </entry>
   
     <entry>
-      <title type="html">Máquinas Voadoras</title>
-      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Máquinas Voadoras" />
-      <published>2020-09-12T00:00:00-03:00</published>
-      <updated>2020-09-12T00:00:00-03:00</updated>
-      <id>http://localhost:4000/project-12-maquinas-voadoras</id>
-      <content type="html" xml:base="http://localhost:4000/"></content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name></name>
-        
-        
-      </author>
-
-      
-
-      
-
-      
-        <summary type="html"></summary>
-      
-
-      
-      
-    </entry>
-  
-    <entry>
-      <title type="html">Equilíbrio Ecológico</title>
-      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Equilíbrio Ecológico" />
-      <published>2020-09-11T00:00:00-03:00</published>
-      <updated>2020-09-11T00:00:00-03:00</updated>
-      <id>http://localhost:4000/project-11-equilibrio-ecologico</id>
-      <content type="html" xml:base="http://localhost:4000/"></content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name></name>
-        
-        
-      </author>
-
-      
-
-      
-
-      
-        <summary type="html"></summary>
-      
-
-      
-      
-    </entry>
-  
-    <entry>
-      <title type="html">Simulação de Foguetes</title>
-      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Simulação de Foguetes" />
-      <published>2020-09-09T00:00:00-03:00</published>
-      <updated>2020-09-09T00:00:00-03:00</updated>
-      <id>http://localhost:4000/project-09-foguetes-simulacao</id>
+      <title type="html">A História de um Fóssil</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="A História de um Fóssil" />
+      <published>2020-09-07T00:00:00-03:00</published>
+      <updated>2020-09-07T00:00:00-03:00</updated>
+      <id>http://localhost:4000/project-07-fossil</id>
       <content type="html" xml:base="http://localhost:4000/"></content>
 
       
