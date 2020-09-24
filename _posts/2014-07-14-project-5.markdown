@@ -1,9 +1,0 @@
----
-layout: default
-title: Micromundos
-modal-id: 5
-img: safe.png
-alt: image-alt
-url: author/
-description: Veja aqui experimentos e observações do micromundos.
----
